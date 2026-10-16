@@ -18,9 +18,10 @@ MBTI를 보조 입력으로 활용하면서 독립적인 관계심리 모델을 
 3. [사용자 흐름과 결제](docs/product/service-flow.md)
 4. [결정 기록](docs/decisions/decision-log.md)
 5. [관계 모델의 가설과 보완](docs/research/model-hypotheses.md)
-6. [보류 중인 연구 방법 제안](docs/research/research-plan.md)
-7. [연구 참고자료](docs/research/references.md)
-8. [개발 작업 안내](docs/development.md)
+6. [연구 로드맵](docs/research/research-roadmap.md)
+7. [이전 연구 방법 제안](docs/research/research-plan.md)
+8. [연구 참고자료](docs/research/references.md)
+9. [개발 작업 안내](docs/development.md)
 
 문서 전체의 안내는 [문서 색인](docs/README.md), AI 및 개발 작업 기준은 [AGENTS.md](AGENTS.md)에 있습니다.
 
@@ -39,7 +40,7 @@ MBTI를 보조 입력으로 활용하면서 독립적인 관계심리 모델을 
 - 정보 단계별 가격 범위: **4,900~9,900원**.
 - 심화 확장 시 앞서 결제한 비용을 제외한 금액을 추가 결제.
 - 구체적인 상품 구성·중간 가격·차액 인정 범위는 미정.
-- 연구 방법 논의는 보류 중이며, 당분간 서비스 흐름을 먼저 정리.
+- 2026-10-16부터 연구를 먼저 진행하고 서비스 논의는 뒤로 미룸([연구 로드맵](docs/research/research-roadmap.md)).
 
 ## 저장소와 대화의 관계
 
