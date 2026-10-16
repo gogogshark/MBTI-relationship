@@ -6,6 +6,13 @@ MBTI를 보조 입력으로 활용하면서 독립적인 관계심리 모델을 
 
 ## 먼저 읽기
 
+처음 합류한 멤버와 AI 에이전트는 논의의 배경·변경 이유까지 담은 다음 두 문서부터 읽을 수 있습니다.
+
+- [서비스 종합 인수인계](docs/handoff/service-briefing.md): 서비스 구상부터 현재 흐름, 재방문·결제·심화 확장, 미정 정책까지.
+- [관계 모델·6개 팩터 연구 종합 인수인계](docs/handoff/research-briefing.md): 이론과 후보 도출 과정, 정의 수정 이유, 측정·검증·데이터 축적의 보류안까지.
+
+주제별 최신 상태와 상세 관리 문서는 다음과 같습니다.
+
 1. [현재 상태와 다음 논의](docs/project-status.md)
 2. [서비스 개요](docs/product/overview.md)
 3. [사용자 흐름과 결제](docs/product/service-flow.md)
